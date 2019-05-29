@@ -1,0 +1,7 @@
+D:\Faculty\Calcul Numeric\Tema1\Tema1\bin\Debug\Tema1.exe.config
+D:\Faculty\Calcul Numeric\Tema1\Tema1\bin\Debug\Tema1.exe
+D:\Faculty\Calcul Numeric\Tema1\Tema1\bin\Debug\Tema1.pdb
+D:\Faculty\Calcul Numeric\Tema1\Tema1\obj\Debug\Tema1.csprojAssemblyReference.cache
+D:\Faculty\Calcul Numeric\Tema1\Tema1\obj\Debug\Tema1.csproj.CoreCompileInputs.cache
+D:\Faculty\Calcul Numeric\Tema1\Tema1\obj\Debug\Tema1.exe
+D:\Faculty\Calcul Numeric\Tema1\Tema1\obj\Debug\Tema1.pdb
