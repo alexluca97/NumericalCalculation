@@ -1,0 +1,10 @@
+D:\Faculty\Calcul Numeric\Tema2\Tema2\Tema2\bin\Debug\Tema2.exe.config
+D:\Faculty\Calcul Numeric\Tema2\Tema2\Tema2\bin\Debug\Tema2.exe
+D:\Faculty\Calcul Numeric\Tema2\Tema2\Tema2\bin\Debug\Tema2.pdb
+D:\Faculty\Calcul Numeric\Tema2\Tema2\Tema2\obj\Debug\Tema2.csprojAssemblyReference.cache
+D:\Faculty\Calcul Numeric\Tema2\Tema2\Tema2\obj\Debug\Tema2.csproj.CoreCompileInputs.cache
+D:\Faculty\Calcul Numeric\Tema2\Tema2\Tema2\obj\Debug\Tema2.exe
+D:\Faculty\Calcul Numeric\Tema2\Tema2\Tema2\obj\Debug\Tema2.pdb
+D:\Faculty\Calcul Numeric\Tema2\Tema2\Tema2\bin\Debug\MathNet.Numerics.dll
+D:\Faculty\Calcul Numeric\Tema2\Tema2\Tema2\bin\Debug\MathNet.Numerics.xml
+D:\Faculty\Calcul Numeric\Tema2\Tema2\Tema2\obj\Debug\Tema2.csproj.CopyComplete
