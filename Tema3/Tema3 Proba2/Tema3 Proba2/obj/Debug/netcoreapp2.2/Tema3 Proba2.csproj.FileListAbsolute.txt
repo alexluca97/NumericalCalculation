@@ -1,0 +1,11 @@
+D:\Faculty\Calcul Numeric\Tema3\Tema3 Proba2\Tema3 Proba2\bin\Debug\netcoreapp2.2\Tema3 Proba2.deps.json
+D:\Faculty\Calcul Numeric\Tema3\Tema3 Proba2\Tema3 Proba2\bin\Debug\netcoreapp2.2\Tema3 Proba2.runtimeconfig.json
+D:\Faculty\Calcul Numeric\Tema3\Tema3 Proba2\Tema3 Proba2\bin\Debug\netcoreapp2.2\Tema3 Proba2.runtimeconfig.dev.json
+D:\Faculty\Calcul Numeric\Tema3\Tema3 Proba2\Tema3 Proba2\bin\Debug\netcoreapp2.2\Tema3 Proba2.dll
+D:\Faculty\Calcul Numeric\Tema3\Tema3 Proba2\Tema3 Proba2\bin\Debug\netcoreapp2.2\Tema3 Proba2.pdb
+D:\Faculty\Calcul Numeric\Tema3\Tema3 Proba2\Tema3 Proba2\obj\Debug\netcoreapp2.2\Tema3 Proba2.csprojAssemblyReference.cache
+D:\Faculty\Calcul Numeric\Tema3\Tema3 Proba2\Tema3 Proba2\obj\Debug\netcoreapp2.2\Tema3 Proba2.csproj.CoreCompileInputs.cache
+D:\Faculty\Calcul Numeric\Tema3\Tema3 Proba2\Tema3 Proba2\obj\Debug\netcoreapp2.2\Tema3 Proba2.AssemblyInfoInputs.cache
+D:\Faculty\Calcul Numeric\Tema3\Tema3 Proba2\Tema3 Proba2\obj\Debug\netcoreapp2.2\Tema3 Proba2.AssemblyInfo.cs
+D:\Faculty\Calcul Numeric\Tema3\Tema3 Proba2\Tema3 Proba2\obj\Debug\netcoreapp2.2\Tema3 Proba2.dll
+D:\Faculty\Calcul Numeric\Tema3\Tema3 Proba2\Tema3 Proba2\obj\Debug\netcoreapp2.2\Tema3 Proba2.pdb
