@@ -1,0 +1,11 @@
+D:\Faculty\Calcul Numeric\Tema5 DotNET\Tema5\Tema5\bin\Debug\netcoreapp2.2\Tema5.deps.json
+D:\Faculty\Calcul Numeric\Tema5 DotNET\Tema5\Tema5\bin\Debug\netcoreapp2.2\Tema5.runtimeconfig.json
+D:\Faculty\Calcul Numeric\Tema5 DotNET\Tema5\Tema5\bin\Debug\netcoreapp2.2\Tema5.runtimeconfig.dev.json
+D:\Faculty\Calcul Numeric\Tema5 DotNET\Tema5\Tema5\bin\Debug\netcoreapp2.2\Tema5.dll
+D:\Faculty\Calcul Numeric\Tema5 DotNET\Tema5\Tema5\bin\Debug\netcoreapp2.2\Tema5.pdb
+D:\Faculty\Calcul Numeric\Tema5 DotNET\Tema5\Tema5\obj\Debug\netcoreapp2.2\Tema5.csprojAssemblyReference.cache
+D:\Faculty\Calcul Numeric\Tema5 DotNET\Tema5\Tema5\obj\Debug\netcoreapp2.2\Tema5.csproj.CoreCompileInputs.cache
+D:\Faculty\Calcul Numeric\Tema5 DotNET\Tema5\Tema5\obj\Debug\netcoreapp2.2\Tema5.AssemblyInfoInputs.cache
+D:\Faculty\Calcul Numeric\Tema5 DotNET\Tema5\Tema5\obj\Debug\netcoreapp2.2\Tema5.AssemblyInfo.cs
+D:\Faculty\Calcul Numeric\Tema5 DotNET\Tema5\Tema5\obj\Debug\netcoreapp2.2\Tema5.dll
+D:\Faculty\Calcul Numeric\Tema5 DotNET\Tema5\Tema5\obj\Debug\netcoreapp2.2\Tema5.pdb
