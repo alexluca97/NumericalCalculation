@@ -1,0 +1,11 @@
+D:\Faculty\Calcul Numeric\Tema6\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.deps.json
+D:\Faculty\Calcul Numeric\Tema6\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.runtimeconfig.json
+D:\Faculty\Calcul Numeric\Tema6\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.runtimeconfig.dev.json
+D:\Faculty\Calcul Numeric\Tema6\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.dll
+D:\Faculty\Calcul Numeric\Tema6\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.pdb
+D:\Faculty\Calcul Numeric\Tema6\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.csprojAssemblyReference.cache
+D:\Faculty\Calcul Numeric\Tema6\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Faculty\Calcul Numeric\Tema6\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Faculty\Calcul Numeric\Tema6\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.AssemblyInfo.cs
+D:\Faculty\Calcul Numeric\Tema6\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.dll
+D:\Faculty\Calcul Numeric\Tema6\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.pdb
